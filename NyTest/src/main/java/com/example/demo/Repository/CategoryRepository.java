@@ -1,4 +1,4 @@
 package com.example.demo.Repository;
 
-public class CategoryRepository {
+public interface CategoryRepository {
 }
